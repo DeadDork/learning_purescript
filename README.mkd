@@ -1,0 +1,9 @@
+Learning PureScript
+===================
+
+Learning PureScript by fiddling with it.
+
+Blah blah blah
+--------------
+
+Not much to say here: learning PureScript, la de da.
